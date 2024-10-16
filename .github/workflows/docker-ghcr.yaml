@@ -14,7 +14,7 @@ on:
     branches: [main]
 
 env:
-  # Use docker.io for Docker Hub if empty
+  # Use docker.io for Docker Hub if empty1
   REGISTRY: rgs.aichatem.com
   # github.repository as <account>/<repo>
   IMAGE_NAME: notionnext
